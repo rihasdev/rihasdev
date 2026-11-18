@@ -2,9 +2,11 @@
 
 # Hey, I'm Rihas 👋
 
-### Mechanical Engineering → Data Analytics → AI & Automation
+### Data Analyst | AI & Automation Explorer
 
-**Curious by nature. Building practical tools to solve everyday problems.**
+*From mechanical engineering to building data-driven and intelligent solutions.*
+
+**Turning curiosity into practical tools and useful digital experiences.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rihasdev-181717?style=flat-square&logo=github)](https://github.com/rihasdev)
 [![Projects](https://img.shields.io/badge/Explore-Projects-2563EB?style=flat-square&logo=github)](https://github.com/rihasdev?tab=repositories)
@@ -15,7 +17,7 @@
 
 ## 👨‍💻 About me
 
-I'm **Rihas**, with a background in mechanical engineering and a journey into **data analytics, AI, and automation**. I like experimenting, learning by building, and turning everyday frustrations into useful digital tools.
+I'm **Rihas**, a data analyst with a background in mechanical engineering. I work with **Power BI, SQL, Python, and Alteryx** and explore how **AI and automation** can make everyday work simpler. I enjoy learning by building practical tools and applications.
 
 - 📊 Interested in **data-driven problem solving**
 - 🤖 Exploring **AI-assisted development and automation**
@@ -23,22 +25,28 @@ I'm **Rihas**, with a background in mechanical engineering and a journey into **
 - 🌱 Learning continuously at the intersection of **engineering, data, and AI**
 - 💡 My approach: **Stay curious. Build. Learn. Improve.**
 
+## 🧰 Skills & tools
+
+**Data analytics & business intelligence**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-007DBA?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**AI & automation**
+
+![AI](https://img.shields.io/badge/AI%20Tools-24292F?style=flat-square) ![Automation](https://img.shields.io/badge/Workflow%20Automation-0F766E?style=flat-square) ![AI Development](https://img.shields.io/badge/AI--assisted%20Development-6D28D9?style=flat-square)
+
+**Web & development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ## 🚀 Featured projects
 
 | Project | Overview |
 | :--- | :--- |
-| [🥗 HealthyMe](https://github.com/rihasdev/HealthyMe) | A lightweight web resource focused on healthy habits, fitness, and well-being. |
-| [📚 My Deen](https://github.com/rihasdev/mydeen) | An interactive platform organizing educational articles and learning resources. |
-| [🧮 Nutricalc](https://github.com/rihasdev/Nutricalc) | An app-building experiment and ongoing learning project. |
-| [⏱️ Timer](https://github.com/rihasdev/Timer) | A small application project for exploring and practicing development. |
-
-## 🧰 What I'm working with
-
-**Data analytics & BI:** Power BI · SQL · Python · Alteryx · Excel · Data visualization
-
-**AI & automation:** AI tools · Workflow automation · AI-assisted development
-
-**Web & development:** HTML · CSS · JavaScript · Git · GitHub · Chrome extensions
+| [🥗 HealthyMe](https://github.com/rihasdev/HealthyMe) | A responsive wellness resource that brings together practical health, fitness, and daily-habit guidance. **HTML, CSS.** |
+| [📚 My Deen](https://github.com/rihasdev/mydeen) | An educational website organizing articles and interactive learning resources in an accessible format. **HTML, CSS, JavaScript.** |
+| [🧮 Nutricalc](https://github.com/rihasdev/Nutricalc) | An application prototype for learning and experimenting with modern web development. |
+| [⏱️ Timer](https://github.com/rihasdev/Timer) | A small application prototype developed through hands-on experimentation. |
 
 ## 📈 GitHub activity
 
