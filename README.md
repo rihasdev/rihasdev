@@ -34,11 +34,11 @@ I'm **Rihas**, with a background in mechanical engineering and a journey into **
 
 ## 🧰 What I'm working with
 
-**Data & analysis:** Python · SQL · Excel · Data visualization
+**Data analytics & BI:** Power BI · SQL · Python · Alteryx · Excel · Data visualization
 
-**Web & development:** HTML · CSS · JavaScript · Git · GitHub
+**AI & automation:** AI tools · Workflow automation · AI-assisted development
 
-**Exploring:** AI tools · Automation · Chrome extensions · Product building
+**Web & development:** HTML · CSS · JavaScript · Git · GitHub · Chrome extensions
 
 ## 📈 GitHub activity
 
